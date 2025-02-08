@@ -19,6 +19,6 @@ I'm currently learning Python, C++ and Java<br>. I'm working on building a stron
 ![](https://github-contributor-stats.vercel.app/api?username=mohammedfarhannp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohammedfarhannp&icon=1&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mohammedfarhannp&&style=flat-square&color=green)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
