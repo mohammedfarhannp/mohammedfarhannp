@@ -1,7 +1,5 @@
 # 💫 About Me:
 I'm currently learning Python, C++ and Java.<br/> I'm working on building a strong cybersecurity foundation.<br>The goal is to build skill upon skill on the foundational basics.<br><br>In Sha Allah the programming I learn will help me in my career in cybersecurity.<br><br>"When you see a good move, look for a better one." <br>~ Emanuel Lasker (German chess player and mathematician)<br>
-## Puzzle
-*64 47 68 6c 52 6d 6c 79 63 33 52 50 62 6d 56 55 62 30 52 6c 59 32 39 6b 5a 56 52 6f 61 58 4e 48 5a 58 52 7a 4d 54 42 53 64 58 42 6c 5a 58 4d 6a 54 57 4e 68 51 32 78 68 63 33 4e 74 59 58 52 6c 63 30 39 75 62 48 6b 6a 51 32 39 6b 5a 53 30 35 4f 44 49 79*
 
 
 ## 🌐 Socials:
