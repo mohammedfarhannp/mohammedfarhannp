@@ -32,20 +32,28 @@ Hello There! <em><b>I'm Mohammed Farhan N P</b></em>, an MCA student with a stro
  <em> Technologies </em> </h2>
 
 <p align="center">
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+
 <!-- C++ -->
 <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 <!-- Java -->
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
 
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<!-- HTML5 -->
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
 
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-
-<!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
 
 <!-- CSS3 -->
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
@@ -53,16 +61,9 @@ Hello There! <em><b>I'm Mohammed Farhan N P</b></em>, an MCA student with a stro
 <!-- Git -->
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
 
 </p>
 
