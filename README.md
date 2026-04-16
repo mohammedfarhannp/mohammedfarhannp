@@ -18,7 +18,7 @@
 <br/>
 
 <p>
-Hello There! <em><b>I'm Mohammed Farhan N P</b></em>, an MCA student with a strong foundation in programming and a keen interest in cybersecurity. My technical proficiency spans Python, C, C++, Java, and Kotlin, alongside hands-on experience building and modernizing web applications with legacy stacks like HTML, CSS, JS, PHP, and MySQL. I enjoy problem-solving and actively apply my skills to practical projects, such as developing "Zane's Optimizer," a tool for optimal image placement across PDF pages. I am passionate about penetration testing and am building my expertise to pursue a career as a professional pentester, continuously learning through hands-on contributions and research.
+**Hello, I'm Mohammed Farhan N P.** I am an MCA student with a strong foundation in programming and a keen interest in cybersecurity. My technical expertise includes Python, C, C++, Java, and Kotlin, along with hands-on experience building and modernizing web applications using legacy stacks such as HTML, CSS, JavaScript, PHP, and MySQL. I enjoy problem-solving and apply my skills to practical projects. Passionate about penetration testing, I am steadily building my expertise to pursue a career as a professional pentester, continuously learning through hands-on contributions and independent research.
 </p>
 
 <br/>
