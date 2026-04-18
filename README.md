@@ -75,7 +75,8 @@ Hello, I'm <b>Mohammed Farhan N P.</b> I am an MCA student with a strong foundat
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedfarhannp&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammedfarhannp&theme=dark&background=000000&border=F97300&stroke=F97300&ring=F97300&fire=F97300&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFA500)   
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammedfarhannp&background=000000&border=00CED1&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakNum=00CED1&sideNums=00CED1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00CED1)   
 
 <br/><br/>
 
