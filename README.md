@@ -34,36 +34,36 @@ Hello, I'm <b>Mohammed Farhan N P.</b> I am an MCA student with a strong foundat
 <p align="center">
 
 <!-- Python -->
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00CED1" />
 
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00CED1" />
 
 <!-- C++ -->
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00CED1" />
 
 <!-- Java -->
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00CED1" />
 
 <!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00CED1" />
 
 <!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00CED1" />
 
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00CED1" />
 
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00CED1" />
 
 <!-- CSS3 -->
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00CED1" />
 
 <!-- Git -->
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00CED1" />
 
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=00CED1" />
 
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00CED1" />
 
 </p>
 
