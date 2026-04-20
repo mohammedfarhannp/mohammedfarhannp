@@ -34,7 +34,7 @@ Hello, I'm $${\color{teal}\textbf{Mohammed Farhan N P.}}$$ I am an MCA student w
 <p align="center">
 
 <!-- Python -->
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00CED1" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF00FF" />
 
 <!-- C -->
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00CED1" />
