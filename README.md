@@ -36,6 +36,7 @@ Hello, I'm <b>Mohammed Farhan N P.</b> I am an MCA student with a strong foundat
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00CED1" />
 
+<!-- C -->
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00CED1" />
 
 <!-- C++ -->
