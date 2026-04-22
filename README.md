@@ -18,7 +18,7 @@
 <br/>
 
 <p>
-Hello, I'm $${\color{teal}\textbf{Mohammed Farhan N P.}}$$ I am an MCA student with a strong foundation in programming and a keen interest in cybersecurity. My technical expertise includes Python, C, C++, Java, and Kotlin, along with hands-on experience building and modernizing web applications using legacy stacks such as HTML, CSS, JavaScript, PHP, and MySQL. I enjoy problem-solving and apply my skills to practical projects. Passionate about penetration testing, I am steadily building my expertise to pursue a career as a professional pentester, continuously learning through hands-on contributions and independent research.
+Hello, I'm $${\color{teal}\textbf{Mohammed Farhan N P.}}$$ I am an MCA student with a strong foundation in programming and a keen interest in cybersecurity. My technical expertise includes $${\color{#E30B5D}{Python, C, C++, Java,}}$$ and $${\color{#E30B5D}{Kotlin}}$$, along with hands-on experience building and modernizing web applications using legacy stacks such as HTML, CSS, JavaScript, PHP, and MySQL. I enjoy problem-solving and apply my skills to practical projects. Passionate about penetration testing, I am steadily building my expertise to pursue a career as a professional pentester, continuously learning through hands-on contributions and independent research.
 </p>
 
 <br/>
