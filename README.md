@@ -66,6 +66,7 @@ Hello, I'm $${\color{teal}\textbf{Mohammed Farhan N P.}}$$ I am an MCA student w
 
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00CED1" />
 
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=E30B5D" />
 </p>
 
 
