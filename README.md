@@ -81,4 +81,8 @@ Hello, I'm $${\color{teal}\textbf{Mohammed Farhan N P.}}$$ I am an MCA student w
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedfarhannp&bg_color=000000&color=FFFFFF&line=48D1CC&point=5F9EA0&area_color=48D1CC&area=true&hide_border=false" width="100%" />   
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedfarhannp&layout=compact&bg_color=000000&title_color=00CED1&text_color=FFFFFF&icon_color=FF00FF&hide_border=true" alt="Top Languages" />
+
 </div>
