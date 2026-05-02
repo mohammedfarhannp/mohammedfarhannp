@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mohammedfarhannp&label=Total%20Visitors%20:%20&color=orange&style=flat" alt="mohammedfarhannp"/>
     <br>
-    <h1 align="center">Welcome to $${\color{teal}\text{Farhan's}}$$ Github Profile</h1>
+    <h1 align="center">Welcome to Farhan's Github Profile</h1>
 </p>
 
 <p align="center">
